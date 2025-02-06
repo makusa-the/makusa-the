@@ -1,40 +1,83 @@
-# Hi there, I'm Innocent 👋
+<h1 align="center">< Hello World 👋, I'm Innocent /></h1>
+<h3 align="center">🌟 Telecom Engineer by day, Full-Stack Wizard by night 🌟</h3>
 
-Welcome to my corner of GitHub! I'm a Telecommunications Engineer and Full-Stack Developer with a passion for network engineering and web development. I specialize in building robust web applications and maintaining ICT infrastructure, combining my technical expertise with practical problem-solving skills.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&width=435&lines=Telecommunications+Engineer;Full-Stack+Developer;Network+Engineering+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
-## 🛠️ My Tech Arsenal
+---
 
-* **Full-Stack Development**: Proficient in the MERN stack (MongoDB, Express, React, Node.js), bringing ideas to life through clean and efficient code
-* **Backend Technologies**: Express, Node.js, Laravel with extensive experience in database management using MongoDB and MySQL
-* **Frontend Development**: React, HTML/CSS, JavaScript, creating responsive and intuitive user interfaces
-* **Version Control**: Git, GitHub, implementing modern CI/CD practices for streamlined development
-* **Network Engineering**: Strong foundation in telecommunications infrastructure, network maintenance, and troubleshooting
-* **Infrastructure Support**: Experience in ICT infrastructure maintenance and help desk support, ensuring minimal system downtime
+### 🧑‍💻 About Me
 
-## 🚀 What I Bring to the Table
+```javascript
+const innocent = {
+    location: "Lusaka, Zambia",
+    education: "B.Eng Telecommunications & Electronics",
+    fields: ["Network Engineering", "Full-Stack Development"],
+    currentlyLearning: ["CCNA", "CompTIA A+"],
+    askMeAbout: ["Web Dev", "Tech", "Network Infrastructure"],
+    funFact: "I turn ☕ into <code/>"
+};
+```
 
-* Developing and maintaining custom web applications using modern tech stacks
-* Implementing responsive and user-friendly interfaces with React
-* Managing database architectures with MongoDB and MySQL
-* Providing efficient ICT infrastructure support and maintenance
-* Troubleshooting network issues and optimizing system performance
-* Setting up and maintaining telecommunications equipment
-* Collaborating effectively with clients and team members
+### 🛠️ Tech Stack
 
-## 🌱 On My Learning Path
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
-* Pursuing Cisco CCNA certification through comprehensive self-study
-* Preparing for CompTIA A+ certification to enhance IT support skills
-* Continuously expanding my knowledge of modern web development practices
-* Exploring advanced network engineering concepts and implementations
+### 🎯 What I Do
 
-## 📫 Let's Connect
+```python
+class TelecommunicationsEngineer:
+    def __init__(self):
+        self.code = ["JavaScript", "HTML", "CSS", "Python", "PHP"]
+        self.tools = ["React", "Node", "MongoDB", "Express", "Laravel"]
+        self.focus = "Building digital solutions that matter"
+        
+    def current_projects(self):
+        return [
+            "🌐 Developing scalable web applications",
+            "🔧 Maintaining ICT infrastructure",
+            "📚 Pursuing network certifications",
+            "💻 Contributing to open-source projects"
+        ]
+```
 
-* [LinkedIn](https://linkedin.com/in/innmak)
-* [Email](mailto:innmak@proton.me)
+### 📈 GitHub Stats
 
-## ⚡ Fun Fact
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=makusa-the&theme=dark" alt="GitHub streak"/>
+</p>
 
-I'm a self-motivated learner who maintains an active freelance development practice while pursuing professional certifications. I believe in the power of combining theoretical knowledge with practical experience to create innovative solutions.
+### 🌱 Currently Learning
 
-Feel free to reach out if you're interested in collaboration or have exciting projects in mind. Let's build something amazing together! 🌟
+- 🔐 Cisco CCNA Certification
+- 🖥️ CompTIA A+ Certification
+- 🚀 Advanced Network Engineering
+- ⚡ Modern Web Development Practices
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/innmak">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:innmak@proton.me">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=makusa-the&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+<h3 align="center">⚡ Let's turn ideas into reality! ⚡</h3>
