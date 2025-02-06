@@ -7,77 +7,106 @@
 
 ---
 
-### 🧑‍💻 About Me
+## 🧬 Digital DNA
 
-```javascript
-const innocent = {
-    location: "Lusaka, Zambia",
-    education: "B.Eng Telecommunications & Electronics",
-    fields: ["Network Engineering", "Full-Stack Development"],
-    currentlyLearning: ["CCNA", "CompTIA A+"],
-    askMeAbout: ["Web Dev", "Tech", "Network Infrastructure"],
-    funFact: "I turn ☕ into <code/>"
+```typescript
+interface Engineer {
+  location: string;
+  superpower: string;
+  mission: string;
+  dailyFuel: string[];
+}
+
+const innocent: Engineer = {
+  location: "Lusaka, Zambia 🇿🇲",
+  superpower: "Bridging Networks & Code",
+  mission: "Building tomorrow's digital infrastructure",
+  dailyFuel: ["☕ Coffee", "🎧 Music", "💡 Innovation", "🌟 Challenges"]
 };
 ```
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
-### 🎯 What I Do
+## 🎯 Mission Control
 
 ```python
-class TelecommunicationsEngineer:
+class DigitalArchitect:
     def __init__(self):
-        self.code = ["JavaScript", "HTML", "CSS", "Python", "PHP"]
-        self.tools = ["React", "Node", "MongoDB", "Express", "Laravel"]
-        self.focus = "Building digital solutions that matter"
-        
-    def current_projects(self):
+        self.by_day = "Optimizing Telecom Networks 📡"
+        self.by_night = "Crafting Web Solutions 💻"
+        self.always = "Learning & Growing 🌱"
+    
+    async def current_quests(self):
         return [
-            "🌐 Developing scalable web applications",
-            "🔧 Maintaining ICT infrastructure",
-            "📚 Pursuing network certifications",
-            "💻 Contributing to open-source projects"
+            "🔮 Architecting Cloud-Native Solutions",
+            "🛡️ Mastering Network Security",
+            "🌐 Building Community-Driven Projects",
+            "🤖 Exploring AI Integration in Web Apps"
         ]
 ```
 
-### 📈 GitHub Stats
+## 🛠️ Arsenal of Creation
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=makusa-the&theme=dark" alt="GitHub streak"/>
-</p>
+<div align="center">
 
-### 🌱 Currently Learning
+### Frontend Realm
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- 🔐 Cisco CCNA Certification
-- 🖥️ CompTIA A+ Certification
-- 🚀 Advanced Network Engineering
-- ⚡ Modern Web Development Practices
+### Backend Kingdom
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 📫 Connect With Me
+### Data Realm
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align="center">
-  <a href="https://linkedin.com/in/innmak">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:innmak@proton.me">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+### DevOps Arsenal
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=makusa-the&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
+## 🎓 Current Pursuits
 
-<h3 align="center">⚡ Let's turn ideas into reality! ⚡</h3>
+```javascript
+const learningPath = {
+  certifications: {
+    "🔐 CCNA": "Mastering Network Architecture",
+    "🖥️ CompTIA A+": "Hardware & Software Proficiency",
+  },
+  skills: {
+    "🌐 Cloud Architecture": ["AWS", "Azure", "GCP"],
+    "🔒 Cybersecurity": ["Network Security", "Penetration Testing"],
+    "🤖 AI/ML": ["TensorFlow", "PyTorch", "Integration"]
+  }
+};
+```
+
+## 📈 Impact Metrics
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=makusa-the&theme=tokyonight&hide_border=true)](https://github.com/makusa-the)
+
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=makusa-the&theme=react-dark)](https://github.com/makusa-the)
+
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/innmak)
+[![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:innmak@proton.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://innmak-portfolio.web.app)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=makusa-the&color=blueviolet&style=for-the-badge)
+
+### 💫 "Transforming Ideas into Digital Reality" 💫
+
+</div>
