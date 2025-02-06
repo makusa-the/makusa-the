@@ -89,7 +89,9 @@ const learningPath = {
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=makusa-the&theme=tokyonight&hide_border=true)](https://github.com/makusa-the)
 
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=makusa-the&theme=react-dark)](https://github.com/makusa-the)
+[![Innocent's GitHub stats](https://github-readme-stats.vercel.app/api?username=makusa-the&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/makusa-the)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=makusa-the&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/makusa-the)
 
 </div>
 
