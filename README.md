@@ -1,114 +1,91 @@
-<h1 align="center">< Hello World 👋, I'm Innocent /></h1>
-<h3 align="center">🌟 Telecom Engineer by day, Full-Stack Wizard by night 🌟</h3>
+# Hi there, I'm Innocent 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&width=435&lines=Telecommunications+Engineer;Full-Stack+Developer;Network+Engineering+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+### Telecommunications Engineer | Full-Stack Developer | Network Enthusiast
+
+I'm a passionate technologist bridging the worlds of telecommunications and software development. By day, I optimize network infrastructure; by night, I craft elegant web solutions. Based in Lusaka, Zambia 🇿🇲, I'm driven by a mission to build tomorrow's digital infrastructure.
 
 ---
 
-## 🧬 Digital DNA
+## 🚀 About Me
 
-```typescript
-interface Engineer {
-  location: string;
-  superpower: string;
-  mission: string;
-  dailyFuel: string[];
-}
+- 🔭 Currently working on **cloud-native solutions** and **network security projects**
+- 🌱 Pursuing **CCNA** and **CompTIA A+** certifications
+- 💡 Exploring **AI integration in web applications**
+- 🎯 Building community-driven open-source projects
+- ⚡ Fun fact: I'm fueled by coffee, music, and the thrill of solving complex problems
 
-const innocent: Engineer = {
-  location: "Lusaka, Zambia 🇿🇲",
-  superpower: "Bridging Networks & Code",
-  mission: "Building tomorrow's digital infrastructure",
-  dailyFuel: ["☕ Coffee", "🎧 Music", "💡 Innovation", "🌟 Challenges"]
-};
+---
+
+## 💻 Tech Stack
+
+**Frontend Development**
+```
+React • Next.js • TailwindCSS • TypeScript
 ```
 
-## 🎯 Mission Control
-
-```python
-class DigitalArchitect:
-    def __init__(self):
-        self.by_day = "Optimizing Telecom Networks 📡"
-        self.by_night = "Crafting Web Solutions 💻"
-        self.always = "Learning & Growing 🌱"
-    
-    async def current_quests(self):
-        return [
-            "🔮 Architecting Cloud-Native Solutions",
-            "🛡️ Mastering Network Security",
-            "🌐 Building Community-Driven Projects",
-            "🤖 Exploring AI Integration in Web Apps"
-        ]
+**Backend Development**
+```
+Node.js • Express • Laravel • PHP
 ```
 
-## 🛠️ Arsenal of Creation
+**Databases**
+```
+MongoDB • MySQL • PostgreSQL
+```
+
+**DevOps & Tools**
+```
+Git • Docker • Linux • CI/CD
+```
+
+**Currently Exploring**
+```
+AWS • Azure • Kubernetes • TensorFlow • Network Security
+```
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-### Frontend Realm
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=makusa-the&theme=dark&hide_border=true&background=0D1117)](https://github.com/makusa-the)
 
-### Backend Kingdom
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=makusa-the&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
 
-### Data Realm
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### DevOps Arsenal
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makusa-the&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 
 </div>
 
-## 🎓 Current Pursuits
+---
+
+## 🎯 Current Focus
 
 ```javascript
-const learningPath = {
-  certifications: {
-    "🔐 CCNA": "Mastering Network Architecture",
-    "🖥️ CompTIA A+": "Hardware & Software Proficiency",
-  },
-  skills: {
-    "🌐 Cloud Architecture": ["AWS", "Azure", "GCP"],
-    "🔒 Cybersecurity": ["Network Security", "Penetration Testing"],
-    "🤖 AI/ML": ["TensorFlow", "PyTorch", "Integration"]
-  }
-};
+{
+  "learning": ["Cloud Architecture (AWS, Azure)", "Advanced Network Security", "AI/ML Integration"],
+  "building": ["Full-stack web applications", "Network automation tools"],
+  "contributing": ["Open-source projects", "Tech community initiatives"],
+  "goal": "Mastering the intersection of networking and software development"
+}
 ```
 
-## 📈 Impact Metrics
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=makusa-the&theme=tokyonight&hide_border=true)](https://github.com/makusa-the)
-
-[![Innocent's GitHub stats](https://github-readme-stats.vercel.app/api?username=makusa-the&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/makusa-the)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=makusa-the&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/makusa-the)
-
-</div>
+---
 
 ## 🤝 Let's Connect
 
+I'm always open to interesting conversations, collaboration opportunities, and new challenges!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/innmak)
+[![Email](https://img.shields.io/badge/Email-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:innmak@proton.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=safari&logoColor=white)](https://innmak-portfolio.web.app)
+
+---
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/innmak)
-[![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:innmak@proton.me)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://innmak-portfolio.web.app)
+![Profile Views](https://komarev.com/ghpvc/?username=makusa-the&color=58A6FF&style=flat)
 
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=makusa-the&color=blueviolet&style=for-the-badge)
-
-### 💫 "Transforming Ideas into Digital Reality" 💫
+**"Building bridges between networks and code, one commit at a time"**
 
 </div>
