@@ -97,8 +97,8 @@ By day I keep networks alive and optimize transmission infrastructure. By night 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=makusa-the&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makusa-the&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=makusa-the&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff&cache_seconds=3600" />
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=makusa-the&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&langs_count=8&cache_seconds=3600" />
 </div>
 
 <div align="center">
